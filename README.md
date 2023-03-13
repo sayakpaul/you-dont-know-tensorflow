@@ -11,7 +11,7 @@ in TensorFlow and **(2)** XLA.
 ## Notebooks
 
 * `notebooks/variable_length_sequences.ipynb`: Shows how to use [`padded_batch()`](https://www.tensorflow.org/api_docs/python/tf/data/Dataset#padded_batch) to handle variable-length sequences.
-* `notebooks/xla_surgery.ipynb`: Shows some explorative interactions with `tf.function` with (`jit_compile` enabled).
+* `notebooks/xla_surgery.ipynb`: Shows some explorative interactions with `tf.function` with `jit_compile` enabled.
 
 Additionally, for XLA, I use [this Colab Notebook](https://colab.research.google.com/github/huggingface/blog/blob/main/notebooks/91_tf_xla_generate.ipynb) to demonstrate how XLA can speed up text generation in TensorFlow by 100x.  
 
