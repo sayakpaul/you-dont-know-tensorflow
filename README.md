@@ -4,7 +4,7 @@ In this talk, I present some under-appreciated and under-used features
 of TensorFlow. I focus on two things: **(1)** handling variable-length sequences
 in TensorFlow and **(2)** XLA. 
 
-**⚠️Disclaimer 1 ⚠️**: Please note that it's my observation that I have found the use of these two things to be poorer than expected. Someone may have other findings, and I don't have any immediate conflicts with those.  
+**⚠️Disclaimer 1 ⚠️**: Please note that it's my observation that I have found the usage of these two things to be poorer than expected. Someone else may have other findings, and I don't have any immediate conflicts with those.  
 
 **⚠️Disclaimer 2 ⚠️**: The title of this talk is meant to be humorous and is NOT so to hurt anyone’s sentiments. 
 
