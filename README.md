@@ -1,3 +1,5 @@
+# You don't know TensorFlow
+
 Contains materials for my talk "You don't know TensorFlow".
 
 In this talk, I present some under-appreciated and under-used features
@@ -27,3 +29,8 @@ going through the following resources in case XLA in TensorFlow interests you:
 * [Official documentation](https://www.tensorflow.org/xla)
 * [Faster Text Generation with TensorFlow and XLA](https://huggingface.co/blog/tf-xla-generate)
 * [XLA Integration for TensorFlow Models](https://huggingface.co/docs/transformers/tf_xla)
+
+## Not covered in the Slides
+
+* Exporting TensorFlow SavedModels for deployment ([example](https://huggingface.co/blog/tf-serving-vision))
+* Taking advantage of TensorRT to speedup inference ([example](https://huggingface.co/spaces/sayakpaul/tensorrt-tf))
