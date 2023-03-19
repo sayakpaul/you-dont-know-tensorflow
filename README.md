@@ -1,6 +1,6 @@
 # You don't know TensorFlow
 
-Contains materials for my talk "You don't know TensorFlow".
+Contains materials for my talk "You don't know TensorFlow". A recording of the talk can be found [here](https://youtu.be/CjkmHNhzhQg).
 
 In this talk, I present some under-appreciated and under-used features
 of TensorFlow. I focus on two things: **(1)** handling variable-length sequences
