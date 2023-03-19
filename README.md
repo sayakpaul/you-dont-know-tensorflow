@@ -38,4 +38,5 @@ But I wanted to cover:
   * How should you export your SavedModels for deployment?
   * Model surgery 
   * TF Serving
+* [Ragged tensors](https://www.tensorflow.org/guide/ragged_tensor)
 * Taking advantage of TensorRT to speedup inference ([example](https://huggingface.co/spaces/sayakpaul/tensorrt-tf))
