@@ -32,5 +32,10 @@ going through the following resources in case XLA in TensorFlow interests you:
 
 ## Not covered in the Slides
 
+But I wanted to cover: 
+
 * Exporting TensorFlow SavedModels for deployment ([example](https://huggingface.co/blog/tf-serving-vision))
+  * How should you export your SavedModels for deployment?
+  * Model surgery 
+  * TF Serving
 * Taking advantage of TensorRT to speedup inference ([example](https://huggingface.co/spaces/sayakpaul/tensorrt-tf))
